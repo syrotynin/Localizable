@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  Localizable-Test
+
+  Created by Serhii Syrotynin on 6/9/19.
+  Copyright © 2019 Serhii Syrotynin. All rights reserved.
+*/
+
+"Greeting" = "Nice to meet you!";
+"Available" = "We are available from %@ to %@";
